@@ -7,4 +7,4 @@ Keep the heart beating by clicking it every 5 beats. Your patient dies if you ge
 
 Need to fix if possible on scratch, is click spamming. Although you don't score if you do this, I would like it to so you do score. 
 
-Works on (Scratch)[https://scratch.mit.edu/]. 
+Works on {Scratch](https://scratch.mit.edu/). 
